@@ -167,7 +167,7 @@ sections:
         textAlign: center
   - subtitle: find us in Amazon
     images:
-      - url: /images/vise-logo.svg
+      - url: /images/Gemini_Generated_Image_3jd6q93jd6q93jd6.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
