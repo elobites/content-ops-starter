@@ -173,9 +173,6 @@ sections:
       - url: /images/logos_Elovate15.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/xrim icon.png
-        altText: Rangle logo
-        type: ImageBlock
       - type: ImageBlock
         url: /images/Diasan Logo-Color corporativo.png
         altText: Image alt text placeholder
