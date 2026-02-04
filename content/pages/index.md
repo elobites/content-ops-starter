@@ -173,13 +173,6 @@ sections:
       - url: /images/logos_Elovate15.png
         altText: Sanity logo
         type: ImageBlock
-      - type: ImageBlock
-        url: /images/Diasan Logo-Color corporativo.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
