@@ -1,5 +1,5 @@
 ---
-title: Choco Oats
+title: 'Glycemic Index & Snacking: How to Avoid the Afternoon Crash'
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
