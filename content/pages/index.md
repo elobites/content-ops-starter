@@ -89,7 +89,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/choco mockup.png
           styles:
             self:
               borderRadius: x-large
