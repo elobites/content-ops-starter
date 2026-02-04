@@ -26,7 +26,7 @@ sections:
         type: Button
       - label: Amazon
         altText: ''
-        url: /
+        url: /https://www.amazon.com/dp/B0DH7FV99K
         showIcon: true
         icon: arrowRight
         iconPosition: right
