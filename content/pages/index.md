@@ -304,11 +304,17 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      ELOBITES by ELOVATE are crafted with no added sugars, utilizing the
+      natural sweetness of dates and fruit concentrates instead of refined
+      syrups or artificial sweeteners. This clean-label approach ensures that
+      your "bridge" between meals is 100% natural and free from preservatives or
+      maltitol, which can be harsh on your digestive system.
+
+
+      By snacking smart with high-fiber, protein-rich bites, you empower your
+      body to maintain steady energy and avoid the common pitfalls of
+      hypoglycemia and hunger cravings.
     actions: []
     elementId: null
     colors: bg-light-fg-dark
