@@ -92,10 +92,7 @@ sections:
               borderRadius: x-large
       - title: Multigrain
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Clean & Simple Base: Every bite is crafted with premium, gluten-free rolled oats and sunflower oil, ensuring a wholesome snack that respects your body’s balance.\_\n"
         image:
           url: /images/multigrain mockup.png
           altText: Featured icon two
