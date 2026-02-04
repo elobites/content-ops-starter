@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: 'Real Food Only: Why Your Snack Shouldn''t Have a Chemistry Degree'
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
@@ -87,19 +87,57 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
-
-Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum.
-
-> Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> ake a look at the back of the last snack bar you ate. If the ingredient list looks more like a high school chemistry final than a recipe—filled with words like *butylated hydroxyanisole* or *tartrazine*—your body is likely struggling to translate that data. If you can’t pronounce it, your body probably won’t recognize it as fuel.
 >
-> _By Laura Gómez - Product Marketing Manager_
+> At Elobites, we believe that food should be grown, not manufactured in a lab. Here is why keeping it real is the only way to snack.
+>
+>
+>
+> ### The Problem with "Artificial": A Recipe for Inflammation
+>
+> In the quest to make food shelf-stable for decades and unnaturally bright, the industry has turned to synthetic dyes and preservatives. But these shortcuts come at a cost.
+>
+> *   Bloating & Discomfort: Synthetic preservatives are designed to prevent breakdown (to stop spoilage). Unfortunately, they can do the same thing in your gut, disrupting your natural digestion and leading to that heavy, bloated feeling.
+>
+> *   Systemic Inflammation: Studies have linked artificial additives like BHA, BHT, and certain emulsifiers to low-grade inflammation. When your body sees a chemical it doesn't recognize, it goes on the defense.
+>
+> ![](/images/Choco%20Oats%20BACK.png)
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+### Nature Doesn't Need a Filter
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Why use Red 40, Yellow 5, or Blue 1 when nature already provided a stunning palette? We believe that a snack should be visually appetizing because of the ingredients it contains, not the dyes added to it.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+At Elobites, we celebrate:
+
+*   The deep, earthy purples of real berries.
+
+*   The rich, golden hues of turmeric and seeds.
+
+*   The honest browns of raw cacao and nuts.
+
+These colors don't just look better; they come with phytonutrients and antioxidants that synthetic dyes lack. Nature doesn't need a filter, and neither does your food.
+
+
+
+### Clean Label Living: The Elobites Standard
+
+"Clean Label" isn't just a buzzword for us; it’s a commitment to transparency. To us, it means a list of ingredients so short and simple you could find them in a kitchen pantry, not a warehouse.
+
+What you’ll NEVER find in an Elobites snack:
+
+1.  Artificial Flavors: We use real spices and fruit extracts, not "natural flavors" created in a laboratory.
+
+2.  Synthetic Preservatives: We rely on quality packaging and stable, whole ingredients to keep things fresh.
+
+3.  Chemical Dyes: If it’s colorful, it’s because a plant made it that way.
+
+
+
+### The Bottom Line
+
+When you eat real food, your body knows exactly what to do with it. It absorbs the vitamins, uses the fiber, and burns the energy efficiently. When you eat a "chemistry project," your body spends more time trying to figure out what it is than actually using it for fuel.
+
+Choose the label that speaks your language.
+
+
+
