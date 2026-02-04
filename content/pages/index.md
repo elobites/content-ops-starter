@@ -244,7 +244,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: The Importance of Low-Glycemic Snacking
       color: text-primary
       styles:
         self:
