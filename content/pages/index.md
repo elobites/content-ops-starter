@@ -218,11 +218,21 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **To maintain stable glucose control, your snacks should focus on three
+      specific pillars:**
+
+
+      *   High Fiber: Ingredients like gluten-free rolled oats and chia seeds
+      slow down the absorption of energy, promoting a flat glucose curve.
+
+
+      *   Plant-Powered Protein: Utilizing pea protein helps satisfy the desire
+      to eat and provides sustained fuel for your muscles and brain.
+
+
+      **Low Net Carbs: Reducing sugar intake helps prevent sudden spikes, making
+      it easier to manage your overall well-being.**
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
