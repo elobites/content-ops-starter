@@ -167,8 +167,6 @@ sections:
         textAlign: center
   - subtitle: find us in Amazon
     images:
-      - altText: Empathy logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
