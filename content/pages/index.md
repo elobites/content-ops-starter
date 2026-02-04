@@ -297,7 +297,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: ''
       color: text-dark
       styles:
         self:
