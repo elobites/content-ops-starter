@@ -332,7 +332,7 @@ sections:
     text: |
       Simple ingredients for a clean label
     actions:
-      - label: Get started
+      - label: B U Y
         url: /
         icon: arrowRight
         iconPosition: right
