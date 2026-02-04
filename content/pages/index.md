@@ -15,7 +15,7 @@ sections:
       flat glucose curve. Experience sustained energy between meals without the
       metabolic stress of added sugars.
     actions:
-      - label: Get started
+      - label: S H O P
         altText: ''
         url: /
         showIcon: false
