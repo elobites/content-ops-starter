@@ -259,7 +259,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: elobites
         tagline: ''
         subtitle: This is the item subtitle
         text: |
