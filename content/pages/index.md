@@ -263,7 +263,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify site.
+          Low Net Carbs
         image:
           type: ImageBlock
           url: /images/elobites_Family (3).jpg
