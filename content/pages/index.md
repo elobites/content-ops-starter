@@ -62,7 +62,12 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: it's notrocketscience
+    subtitle: >-
+      Steady Glucose Support: Engineered to keep your levels stable and your
+      energy consistent.No Spikes, No Crashes: Experience the sweetness you
+      crave without the energy rollercoaster.Metabolic Mindfulness: A snack that
+      respects your body’s natural balance.The Perfect In-Between: Bridging the
+      gap between meals with sustained fuel.
     items:
       - type: FeaturedItem
         title: 500k
