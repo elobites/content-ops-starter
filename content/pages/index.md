@@ -67,10 +67,7 @@ sections:
       - type: FeaturedItem
         title: Chocolate
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Whole Food Sweetness: We use only the natural power of dates and fruit concentrates to provide a delicious taste with no added refined sugars.\_\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
