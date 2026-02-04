@@ -333,7 +333,8 @@ sections:
       Simple ingredients for a clean label
     actions:
       - label: B U Y
-        url: /
+        url: >-
+          /https://www.amazon.com/Elobites-Salty-Sesame-Oat-Bites/dp/B0DFGVPTW1/ref=sr_1_1?dib=eyJ2IjoiMSJ9.tNV3FcCb0AMcuI9BrsDfaQ.fIJTypab1elKW84lz13ilTIS4q3h4eJJXwPtuRnPqCo&dib_tag=se&keywords=Elobites&qid=1770215050&sr=8-1&th=1
         icon: arrowRight
         iconPosition: right
         style: secondary
