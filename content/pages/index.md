@@ -167,9 +167,6 @@ sections:
         textAlign: center
   - subtitle: find us in Amazon
     images:
-      - url: /images/banner web elobites logo.png
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
