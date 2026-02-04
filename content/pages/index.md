@@ -173,7 +173,7 @@ sections:
       - url: /images/logos_Elovate15.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rim logo-01.png
+      - url: /images/xrim icon.png
         altText: Rangle logo
         type: ImageBlock
       - type: ImageBlock
