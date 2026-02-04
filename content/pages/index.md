@@ -24,7 +24,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Amazon
         altText: ''
         url: /
         showIcon: true
