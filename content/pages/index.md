@@ -114,10 +114,10 @@ sections:
         type: FeaturedItem
       - title: Raisin
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Plant-Powered Protein: Boosted with pea protein and organic chia
+          seeds, our bites are designed to provide steady energy to keep you
+          moving throughout the day. 
         image:
           url: /images/raisin mockup.png
           altText: Featured icon three
