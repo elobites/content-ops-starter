@@ -177,7 +177,7 @@ sections:
         altText: Rangle logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Diasan Logo-Color corporativo.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
