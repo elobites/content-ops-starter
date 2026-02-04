@@ -167,7 +167,7 @@ sections:
         textAlign: center
   - subtitle: find us in Amazon
     images:
-      - url: /images/contenful-logo.svg
+      - url: /images/logos png-18.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
