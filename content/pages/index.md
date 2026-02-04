@@ -329,9 +329,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: gluten free
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Simple ingredients for a clean label
     actions:
       - label: Get started
         url: /
