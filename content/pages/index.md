@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: A metabolic bridge for consistent mental and physical energy.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Traditional snacks cause a rapid glucose spike followed by a "crash,"
+      leaving you tired and hungry. The Elobites solution combines slow-release
+      carbohydrates from dates and oats with healthy fats and fiber to ensure a
+      flat glucose curve. Experience sustained energy between meals without the
+      metabolic stress of added sugars.
     actions:
       - label: Get started
         altText: ''
