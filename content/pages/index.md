@@ -136,7 +136,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Why smart bites ?
         altText: ''
         url: /
         showIcon: false
