@@ -303,7 +303,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >
       ELOBITES by ELOVATE are crafted with no added sugars, utilizing the
       natural sweetness of dates and fruit concentrates instead of refined
