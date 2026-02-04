@@ -346,6 +346,14 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+      - type: Link
+        altText: ''
+        url: /https://www.instagram.com/elobites/
+        showIcon: true
+        icon: instagram
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/banner web non gmo.png
       altText: Dope design preview
